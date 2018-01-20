@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kek",
+  "name": "voco ingot mod",
+  "description": "a mod i made for daddy and god coltsnid also fuck casterly",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "kekboy aka sukc",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

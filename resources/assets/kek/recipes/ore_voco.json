@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OIO",
+        "OOO"
+    ],
+    "key": {
+        "I": {
+            "item": "kek:voco_ingot"
+        },
+        "O": {
+            "item": "minecraft:stone"
+        }
+    },
+    "result": {
+        "item": "kek:ore_voco"
+    }
+}

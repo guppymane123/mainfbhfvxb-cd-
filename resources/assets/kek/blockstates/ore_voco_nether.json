@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=voco": { "model": "kek:ore_voco_nether" }
+    }
+}

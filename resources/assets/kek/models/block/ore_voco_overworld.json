@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "kek:blocks/ore_voco_overworld"
+    }
+}
